@@ -1,3 +1,4 @@
+#!/bin/bash
 Create new repository
 Git clone done 
 Create a non- empty Readme
